@@ -1,0 +1,68 @@
+.genel{
+    background-color: white;
+  } 
+ 
+  .fotolar{
+  }
+ 
+  .ustfotolar{
+     margin-left: 0%;
+     display: flex;
+
+  }
+ 
+ 
+ 
+ 
+ .kagit{
+  border: 5px solid green;
+  border-radius: 10px;
+   margin-left: 15%;
+   background: white;
+  
+   
+ }
+ 
+ .tas{ 
+   border: 5px solid green;
+   border-radius: 10px;
+   margin-left: 5%;
+   background: white;
+
+  
+ }
+ 
+ .makas{ 
+  border: 5px solid green;
+  border-radius: 10px;
+   margin-left: 15%;
+   background: white;
+   
+ 
+ }
+ 
+ .yuvarla {
+   border-radius: 0%;
+ }
+ 
+ .sonuc_ekrani{
+   width: 100%;
+   height: 150px ;
+   margin-bottom: 100px;
+
+   border-radius: 10px;
+  
+   border: 5px solid green;
+ }
+ 
+ .yazi {
+     border: 2px solid green;
+     margin-left: 50px;
+     margin-right: 50px;
+     
+   font-size: 7.7mm;
+   font-family: 'Times New Roman', Times, serif;
+   color: black;
+
+   border-radius: 10px;
+ }
